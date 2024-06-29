@@ -11,3 +11,26 @@
 ---
 ### About me
 I am a Junior Front-End Developer with a keen interest in creating user-friendly and responsive web applications. I am committed to continuous learning and keeping up with the latest industry trends.
+
+---
+### Skills
+- HTML5
+- CSS
+- JavaScript
+- Git, GitHub
+- Figma
+- VC Code
+  
+---
+### Code example
+```
+function orderFood(list) {
+  let order = {};
+  for (let el of list) {
+    if(order[el.meal] === undefined) {
+      order[el.meal] = 1;
+    } else order[el.meal] += 1
+  }
+  return order;
+}
+```
