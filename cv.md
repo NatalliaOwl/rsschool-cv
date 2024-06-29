@@ -44,3 +44,6 @@ function orderFood(list) {
 - English
 - Russian
 - Belarussian
+---
+
+<img src="https://app.rs.school/static/images/logo-rsschool3.png" alt="logo" width="200">
